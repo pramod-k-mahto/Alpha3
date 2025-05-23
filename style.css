@@ -1,0 +1,56 @@
+/* selector_Name{
+
+    property:value
+} */
+/* 
+h1{
+    background-color:green ;
+} */
+/* types of selector  */
+/* 
+1. universal selector (*)
+2. Id selector 
+3. class selector 
+4. group selector  
+5 element selector  */
+/* 
+1. Universal selector (*)
+
+*{
+
+    background-color: red;
+} */
+
+/* 5 element selector (Tag name)  */
+/* 
+h1{
+    background-color: red;
+}
+
+h2{
+    background-color: green;
+} */
+
+
+/* 2. Id selector  */
+/* #first{
+    background-color: red;
+}
+
+#hello{
+    background-color: blue;
+}
+
+.box{
+
+    background-color: yellow;
+} */
+
+
+
+/* 4. group selector   */
+
+
+/* h1,p{
+    background-color: red;
+} */
